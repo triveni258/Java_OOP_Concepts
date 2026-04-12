@@ -1,4 +1,4 @@
-package rahulShettyAcademy;
+package org.JavaProgram;
 
 import java.util.Scanner;
 

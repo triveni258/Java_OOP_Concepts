@@ -4,12 +4,59 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8b267e05-b88b-4619-83a0-9272fc91169d" name="Changes" comment="" />
+    <list default="true" id="8b267e05-b88b-4619-83a0-9272fc91169d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/JavaProgram/ReplaceVowelesWithX.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/JavaProgram/TestComponent/HashMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/JavaProgram/TestComponent/TwoPointerTechnique.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/AbstractComponent/FrameworkPageChainingConcept.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/JavaProgram/CountCharactors.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/JavaProgram/CountCharactors.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/JavaProgram/CountDigits.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/JavaProgram/CountDigits.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/JavaProgram/DuplicateElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/JavaProgram/DuplicateElement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/JavaProgram/DuplicateStringCharactors.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/JavaProgram/DuplicateStringCharactors.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/JavaProgram/ErrorLoginValidation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/JavaProgram/EvenAndOddNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/JavaProgram/EvenAndOddNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/JavaProgram/EvenOrOddNum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/JavaProgram/EvenOrOddNum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/JavaProgram/FibonacciNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/JavaProgram/FibonacciNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/JavaProgram/ReverseOnlyLetters.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/JavaProgram/ReverseOnlyLetters.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/JavaProgram/SecondLargestNum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/JavaProgram/SecondLargestNum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/JavaProgram/StringCharCount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/JavaProgram/StringCharCount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/JavaProgram/SubmitOrderTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/JavaProgram/TestComponent/BaseTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/JavaProgram/TestComponent/ReverseInt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/JavaProgram/TestComponent/ReverseInt.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/JavaProgram/standAloneTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pageObjectFiles/CartPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pageObjectFiles/CheckOutPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pageObjectFiles/ConfirmationPage1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pageObjectFiles/LandingPage1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pageObjectFiles/ProductCatalogue.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CopilotPersistence">
+    <persistenceIdMap>
+      <entry key="_D:/TriveniWorkSpace-doNotTouch/JavaPractice" value="35nZeR7N6RmAjzPm6ZiRfHEx1ns" />
+    </persistenceIdMap>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="35nZeR7N6RmAjzPm6ZiRfHEx1ns" />
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -17,11 +64,24 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.CountCharactors.executor": "Run",
+    "Application.CountDigits.executor": "Debug",
+    "Application.DuplicateChar.executor": "Run",
+    "Application.DuplicateElement.executor": "Run",
+    "Application.DuplicateStringCharactors.executor": "Run",
+    "Application.EvenAndOddNumber.executor": "Run",
+    "Application.ReplaceVowelesWithX.executor": "Run",
+    "Application.ReverseInt.executor": "Debug",
+    "Application.StringCharCount.executor": "Debug",
+    "Application.TwoPointerTechnique.executor": "Debug",
+    "Application.countCharacter.executor": "Debug",
     "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/JavaProgram/src/main/java/org/JavaProgram"
+    "last_opened_file_path": "C:/Users/admin/Downloads/TestNGTutorial+(1)/TestNGTutorial",
+    "settings.editor.selected.configurable": "editor.preferences.completion"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -30,6 +90,82 @@
       <recent name="C:\JavaProgram\src" />
       <recent name="C:\JavaProgram\src\main\java" />
     </key>
+  </component>
+  <component name="RunManager" selected="Application.ReplaceVowelesWithX">
+    <configuration name="CountCharactors" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.JavaProgram.CountCharactors" />
+      <module name="JavaProgram" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.JavaProgram.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DuplicateChar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.JavaProgram.DuplicateChar" />
+      <module name="JavaProgram" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.JavaProgram.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DuplicateElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.JavaProgram.DuplicateElement" />
+      <module name="JavaProgram" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.JavaProgram.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EvenAndOddNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.JavaProgram.EvenAndOddNumber" />
+      <module name="JavaProgram" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.JavaProgram.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReplaceVowelesWithX" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.JavaProgram.ReplaceVowelesWithX" />
+      <module name="JavaProgram" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.JavaProgram.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ReplaceVowelesWithX" />
+        <item itemvalue="Application.EvenAndOddNumber" />
+        <item itemvalue="Application.CountCharactors" />
+        <item itemvalue="Application.DuplicateElement" />
+        <item itemvalue="Application.DuplicateChar" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -41,5 +177,205 @@
       <updated>1763744794117</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/rahulshettyacademy/RevereseVowels.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/rahulshettyacademy/RevereseVowels.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/rahulshettyacademy/RevereseVowels.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/rahulshettyacademy/RevereseVowels.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/rahulshettyacademy/RevereseVowels.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/rahulshettyacademy/RevereseVowels.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/rahulshettyacademy/RevereseVowels.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/rahulshettyacademy/RevereseVowels.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/rahulshettyacademy/RevereseVowels.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/JavaProgram/StringCharCount.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/JavaProgram/StringCharCount.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/JavaProgram/CountCharactors.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/JavaProgram/CountCharactors.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/JavaProgram/TestComponent/ReverseInt.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/JavaProgram/TestComponent/TwoPointerTechnique.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/JavaProgram/TestComponent/TwoPointerTechnique.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/JavaProgram/TestComponent/TwoPointerTechnique.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/JavaProgram/TestComponent/TwoPointerTechnique.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/JavaProgram/CountDigits.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/JavaProgram/CountDigits.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/JavaProgram/CountDigits.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/JavaProgram/DuplicateStringCharactors.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/JavaProgram/DuplicateStringCharactors.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/JavaProgram/DuplicateStringCharactors.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/JavaProgram/DuplicateStringCharactors.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/JavaProgram/TestComponent/countCharacter.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/JavaProgram/TestComponent/countCharacter.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/JavaProgram/TestComponent/countCharacter.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/JavaProgram/TestComponent/countCharacter.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/JavaProgram/TestComponent/countCharacter.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/JavaProgram/TestComponent/countCharacter.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/JavaProgram/DuplicateChar.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/JavaProgram/DuplicateChar.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/JavaProgram/DuplicateChar.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/JavaProgram/TestComponent/countCharacter.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="github-copilot-workspace">
+    <instructionFileLocations>
+      <option value=".github/instructions" />
+    </instructionFileLocations>
+    <promptFileLocations>
+      <option value=".github/prompts" />
+    </promptFileLocations>
   </component>
 </project>

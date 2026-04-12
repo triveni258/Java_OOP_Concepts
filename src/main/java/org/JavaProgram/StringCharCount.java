@@ -1,6 +1,6 @@
-package rahulShettyAcademy;
 
-import scala.Char;
+
+package org.JavaProgram;
 
 import java.util.HashMap;
 
@@ -11,7 +11,9 @@ public class StringCharCount {
         HashMap<Character, Integer> fryquencyMap= new HashMap<Character, Integer>();
       for(char charactor :inputarray)
       {
-          fryquencyMap.put(charactor,fryquencyMap.getOrDefault(charactor,0)+1);
+          //fryquencyMap.put(charactor,fryquencyMap.getOrDefault(charactor,0)+1);
+          fryquencyMap.put(charactor, fryquencyMap.getOrDefault(charactor,0)+1);
+
       }
       for(char c :fryquencyMap.keySet())
       {

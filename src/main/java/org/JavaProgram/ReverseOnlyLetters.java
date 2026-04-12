@@ -13,7 +13,7 @@ public class ReverseOnlyLetters {
             {
                 left++;
             }
-            else if(!Character.isLetter(right))
+            //else if(!Character.isLetter(right))
             {
                 right--;
             }

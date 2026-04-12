@@ -1,6 +1,6 @@
-package rahulShettyAcademy;
 
-import MyRandomProgram.LargestNumber;
+
+package org.JavaProgram;
 
 public class SecondLargestNum {
     public static void main(String[] args) {

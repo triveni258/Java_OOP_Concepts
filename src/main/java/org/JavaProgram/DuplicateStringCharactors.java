@@ -1,6 +1,6 @@
 package org.JavaProgram;
 
-import scala.Char;
+
 
 public class DuplicateStringCharactors {
     public static void main(String[] args) {
@@ -12,7 +12,7 @@ public class DuplicateStringCharactors {
         {
             for(int j=i+1; j<ch.length; j++)
             {
-                if(ch[i]==ch[j])
+                if((ch[i])==(ch[j]))//it will not work here if value duplicates morethan two times.
                 {
                     System.out.println(ch[i]);
                     count++;
