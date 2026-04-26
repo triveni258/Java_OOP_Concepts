@@ -24,7 +24,7 @@ public class DuplicateChar {
 
         }
         System.out.println(map);
-        //print onlu duplicate charactors and its count
+        //print only duplicate characters and its count
         Set<Character> charSet = map.keySet();
         for(Character ch: charSet){
             if (map.get(ch)>1)

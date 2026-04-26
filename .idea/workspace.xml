@@ -5,33 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8b267e05-b88b-4619-83a0-9272fc91169d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/JavaProgram/ReplaceVowelesWithX.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/JavaProgram/TestComponent/HashMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/JavaProgram/TestComponent/TwoPointerTechnique.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/JavaProgram/Pangarm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/JavaProgram/PangramHasheset.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/JavaProgram/TestComponent/DuplicateChar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/JavaProgram/TestComponent/DuplicateUniqueList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/JavaProgram/TestComponent/ListDuplicateValues.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/AbstractComponent/FrameworkPageChainingConcept.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/JavaProgram/CountCharactors.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/JavaProgram/CountCharactors.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/JavaProgram/CountDigits.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/JavaProgram/CountDigits.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/JavaProgram/DuplicateElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/JavaProgram/DuplicateElement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/JavaProgram/DuplicateStringCharactors.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/JavaProgram/DuplicateStringCharactors.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/JavaProgram/ErrorLoginValidation.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/JavaProgram/EvenAndOddNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/JavaProgram/EvenAndOddNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/JavaProgram/EvenOrOddNum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/JavaProgram/EvenOrOddNum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/JavaProgram/FibonacciNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/JavaProgram/FibonacciNumbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/JavaProgram/ReverseOnlyLetters.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/JavaProgram/ReverseOnlyLetters.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/JavaProgram/SecondLargestNum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/JavaProgram/SecondLargestNum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/JavaProgram/StringCharCount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/JavaProgram/StringCharCount.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/JavaProgram/SubmitOrderTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/JavaProgram/TestComponent/BaseTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/JavaProgram/TestComponent/ReverseInt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/JavaProgram/TestComponent/ReverseInt.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/JavaProgram/standAloneTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pageObjectFiles/CartPage.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pageObjectFiles/CheckOutPage.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pageObjectFiles/ConfirmationPage1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pageObjectFiles/LandingPage1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pageObjectFiles/ProductCatalogue.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/JavaProgram/DuplicateChar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/JavaProgram/DuplicateChar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/JavaProgram/TestComponent/TwoPointerTechnique.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/JavaProgram/TestComponent/TwoPointerTechnique.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,6 +34,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;swapnil358&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/triveni258/Java_OOP_Concepts.git&quot;,
+    &quot;accountId&quot;: &quot;e94be8a6-f953-4207-9aa1-c1ad14c257a6&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
 }</component>
@@ -60,6 +53,7 @@
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="openDirectoriesWithSingleClick" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
@@ -69,11 +63,15 @@
     "Application.DuplicateChar.executor": "Run",
     "Application.DuplicateElement.executor": "Run",
     "Application.DuplicateStringCharactors.executor": "Run",
+    "Application.DuplicateUniqueList.executor": "Run",
     "Application.EvenAndOddNumber.executor": "Run",
+    "Application.ListDuplicateValues.executor": "Run",
+    "Application.Pangarm.executor": "Run",
+    "Application.PangramHasheset.executor": "Run",
     "Application.ReplaceVowelesWithX.executor": "Run",
     "Application.ReverseInt.executor": "Debug",
     "Application.StringCharCount.executor": "Debug",
-    "Application.TwoPointerTechnique.executor": "Debug",
+    "Application.TwoPointerTechnique.executor": "Run",
     "Application.countCharacter.executor": "Debug",
     "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -81,6 +79,7 @@
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/admin/Downloads/TestNGTutorial+(1)/TestNGTutorial",
+    "run.code.analysis.last.selected.profile": "pProject Default",
     "settings.editor.selected.configurable": "editor.preferences.completion"
   }
 }]]></component>
@@ -91,26 +90,13 @@
       <recent name="C:\JavaProgram\src\main\java" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ReplaceVowelesWithX">
-    <configuration name="CountCharactors" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.JavaProgram.CountCharactors" />
-      <module name="JavaProgram" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.JavaProgram.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.DuplicateUniqueList">
     <configuration name="DuplicateChar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.JavaProgram.DuplicateChar" />
+      <option name="MAIN_CLASS_NAME" value="org.JavaProgram.TestComponent.DuplicateChar" />
       <module name="JavaProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.JavaProgram.*" />
+          <option name="PATTERN" value="org.JavaProgram.TestComponent.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,12 +104,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DuplicateElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.JavaProgram.DuplicateElement" />
+    <configuration name="DuplicateUniqueList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.JavaProgram.TestComponent.DuplicateUniqueList" />
       <module name="JavaProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.JavaProgram.*" />
+          <option name="PATTERN" value="org.JavaProgram.TestComponent.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -131,12 +117,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EvenAndOddNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.JavaProgram.EvenAndOddNumber" />
+    <configuration name="ListDuplicateValues" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.JavaProgram.TestComponent.ListDuplicateValues" />
       <module name="JavaProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.JavaProgram.*" />
+          <option name="PATTERN" value="org.JavaProgram.TestComponent.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -144,12 +130,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReplaceVowelesWithX" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.JavaProgram.ReplaceVowelesWithX" />
+    <configuration name="ReverseInt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.JavaProgram.TestComponent.ReverseInt" />
       <module name="JavaProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.JavaProgram.*" />
+          <option name="PATTERN" value="org.JavaProgram.TestComponent.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TwoPointerTechnique" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.JavaProgram.TestComponent.TwoPointerTechnique" />
+      <module name="JavaProgram" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.JavaProgram.TestComponent.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -159,11 +158,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ReplaceVowelesWithX" />
-        <item itemvalue="Application.EvenAndOddNumber" />
-        <item itemvalue="Application.CountCharactors" />
-        <item itemvalue="Application.DuplicateElement" />
+        <item itemvalue="Application.DuplicateUniqueList" />
         <item itemvalue="Application.DuplicateChar" />
+        <item itemvalue="Application.ListDuplicateValues" />
+        <item itemvalue="Application.TwoPointerTechnique" />
+        <item itemvalue="Application.ReverseInt" />
       </list>
     </recent_temporary>
   </component>
@@ -366,6 +365,21 @@
           <url>file://$PROJECT_DIR$/src/main/java/org/JavaProgram/TestComponent/countCharacter.java</url>
           <line>27</line>
           <option name="timeStamp" value="52" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/JavaProgram/TestComponent/ReverseInt.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="65" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/JavaProgram/TestComponent/ReverseInt.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="66" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/JavaProgram/TestComponent/ReverseInt.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="67" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
