@@ -5,14 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8b267e05-b88b-4619-83a0-9272fc91169d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/JavaProgram/Pangarm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/JavaProgram/PangramHasheset.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/JavaProgram/TestComponent/DuplicateChar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/JavaProgram/TestComponent/DuplicateUniqueList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/JavaProgram/TestComponent/ListDuplicateValues.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/JavaProgram/TestComponent/BigFactorialNum_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/JavaProgram/TestComponent/BigFactorialNum_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/JavaProgram/TestComponent/DuplicateValueMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/JavaProgram/TestComponent/HashMap_5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/JavaProgram/TestComponent/LastWordCount_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/JavaProgram/TestComponent/LengthOfString_4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/JavaProgram/TestComponent/WindowHandles_5.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/JavaProgram/DuplicateChar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/JavaProgram/DuplicateChar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/JavaProgram/TestComponent/TwoPointerTechnique.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/JavaProgram/TestComponent/TwoPointerTechnique.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,13 +58,18 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.BigFactorialNum_2.executor": "Run",
     "Application.CountCharactors.executor": "Run",
     "Application.CountDigits.executor": "Debug",
     "Application.DuplicateChar.executor": "Run",
     "Application.DuplicateElement.executor": "Run",
     "Application.DuplicateStringCharactors.executor": "Run",
     "Application.DuplicateUniqueList.executor": "Run",
+    "Application.DuplicateValueMap.executor": "Run",
     "Application.EvenAndOddNumber.executor": "Run",
+    "Application.HashMap_5.executor": "Run",
+    "Application.LastWordCount_3.executor": "Run",
+    "Application.LengthOfString_4.executor": "Run",
     "Application.ListDuplicateValues.executor": "Run",
     "Application.Pangarm.executor": "Run",
     "Application.PangramHasheset.executor": "Run",
@@ -72,6 +77,7 @@
     "Application.ReverseInt.executor": "Debug",
     "Application.StringCharCount.executor": "Debug",
     "Application.TwoPointerTechnique.executor": "Run",
+    "Application.WindowHandles_5.executor": "Run",
     "Application.countCharacter.executor": "Debug",
     "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -90,9 +96,9 @@
       <recent name="C:\JavaProgram\src\main\java" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DuplicateUniqueList">
-    <configuration name="DuplicateChar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.JavaProgram.TestComponent.DuplicateChar" />
+  <component name="RunManager" selected="Application.DuplicateValueMap">
+    <configuration name="DuplicateValueMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.JavaProgram.TestComponent.DuplicateValueMap" />
       <module name="JavaProgram" />
       <extension name="coverage">
         <pattern>
@@ -104,8 +110,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DuplicateUniqueList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.JavaProgram.TestComponent.DuplicateUniqueList" />
+    <configuration name="HashMap_5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.JavaProgram.TestComponent.HashMap_5" />
       <module name="JavaProgram" />
       <extension name="coverage">
         <pattern>
@@ -117,8 +123,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ListDuplicateValues" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.JavaProgram.TestComponent.ListDuplicateValues" />
+    <configuration name="LastWordCount_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.JavaProgram.TestComponent.LastWordCount_3" />
       <module name="JavaProgram" />
       <extension name="coverage">
         <pattern>
@@ -130,8 +136,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseInt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.JavaProgram.TestComponent.ReverseInt" />
+    <configuration name="LengthOfString_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.JavaProgram.TestComponent.LengthOfString_4" />
       <module name="JavaProgram" />
       <extension name="coverage">
         <pattern>
@@ -143,8 +149,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TwoPointerTechnique" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.JavaProgram.TestComponent.TwoPointerTechnique" />
+    <configuration name="WindowHandles_5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.JavaProgram.TestComponent.WindowHandles_5" />
       <module name="JavaProgram" />
       <extension name="coverage">
         <pattern>
@@ -158,11 +164,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.DuplicateUniqueList" />
-        <item itemvalue="Application.DuplicateChar" />
-        <item itemvalue="Application.ListDuplicateValues" />
-        <item itemvalue="Application.TwoPointerTechnique" />
-        <item itemvalue="Application.ReverseInt" />
+        <item itemvalue="Application.DuplicateValueMap" />
+        <item itemvalue="Application.HashMap_5" />
+        <item itemvalue="Application.WindowHandles_5" />
+        <item itemvalue="Application.LengthOfString_4" />
+        <item itemvalue="Application.LastWordCount_3" />
       </list>
     </recent_temporary>
   </component>
