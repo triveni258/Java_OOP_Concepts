@@ -5,22 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8b267e05-b88b-4619-83a0-9272fc91169d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/CodingPractice/FactorailNum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/CodingPractice/mergeTwoArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/CodingPractice2/Date_class.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/CodingPractice2/InstanceVeriables.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/CodingPractice2/ReverseSentenceWithSpace.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SeleniumConcept/ActionClass.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/CodingPractice/BigFactorialNum_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CodingPractice/BigFactorialNum_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/CodingPractice/LastWordCount_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CodingPractice/LastWordCount_3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/CodingPractice/TwoPointerTechnique.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CodingPractice/TwoPointerTechnique.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/CodingPractice/countCharacter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CodingPractice/countCharacter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/CodingPractice2/CountCharactors.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CodingPractice2/CountCharactors.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/CodingPractice2/DuplicateElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CodingPractice2/DuplicateElement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/CodingPractice2/MissingNum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CodingPractice2/MissingNum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/CodingPractice2/MoveAllZerosInTheEnd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CodingPractice2/MoveAllZerosInTheEnd.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/CodingPractice2/ReverseOnlyLetters.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CodingPractice2/ReverseOnlyLetters.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/SeleniumConcept/FrameHandle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SeleniumConcept/FrameHandle.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,6 +64,7 @@
     "Application.DuplicateValueMap.executor": "Run",
     "Application.EvenAndOddNumber.executor": "Run",
     "Application.FactorailNum.executor": "Run",
+    "Application.FrameHandle.executor": "Run",
     "Application.HashMap_5.executor": "Run",
     "Application.InstanceVeriables.executor": "Run",
     "Application.LastWordCount_3.executor": "Debug",
@@ -99,7 +86,7 @@
     "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "Triveni",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/admin/Downloads/TestNGTutorial+(1)/TestNGTutorial",
     "project.structure.last.edited": "Project",
@@ -116,7 +103,7 @@
       <recent name="C:\JavaProgram\src\main\java" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ActionClass">
+  <component name="RunManager" selected="Application.FrameHandle">
     <configuration name="ActionClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="SeleniumConcept.ActionClass" />
       <module name="JavaProgram" />
@@ -143,12 +130,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InstanceVeriables" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CodingPractice2.InstanceVeriables" />
+    <configuration name="FrameHandle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SeleniumConcept.FrameHandle" />
       <module name="JavaProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CodingPractice2.*" />
+          <option name="PATTERN" value="SeleniumConcept.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -156,8 +143,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseOnlyLetters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CodingPractice2.ReverseOnlyLetters" />
+    <configuration name="InstanceVeriables" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CodingPractice2.InstanceVeriables" />
       <module name="JavaProgram" />
       <extension name="coverage">
         <pattern>
@@ -184,11 +171,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FrameHandle" />
         <item itemvalue="Application.ActionClass" />
         <item itemvalue="Application.Date_class" />
         <item itemvalue="Application.InstanceVeriables" />
         <item itemvalue="Application.ReverseSentenceWithSpace" />
-        <item itemvalue="Application.ReverseOnlyLetters" />
       </list>
     </recent_temporary>
   </component>
