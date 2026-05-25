@@ -13,23 +13,23 @@ public class MissingNum {
         }
 
 
-            for (int j = 0; j <= a.length - 1; j++)
+            for (int j = 0; j <= a.length-1 ; j++)
             {
                 sum = sum + a[j];
             }
         System.out.println(sum1 - sum);
             //another way
-        int num[]={1,2,4,5,6};
-        int m=6;
-        int MissingNum=0;
-        int exectedSum= m*(m+1)/2;
-        int actualNum=0;
-        for(int allSum: num)
-        {
-            actualNum=actualNum+allSum;
-        }
-
-        System.out.println(exectedSum-actualNum);
+//        int num[]={1,2,4,5,6};
+//        int m=6;
+//        int MissingNum=0;
+//        int exectedSum= m*(m+1)/2;
+//        int actualNum=0;
+//        for(int allSum: num)
+//        {
+//            actualNum=actualNum+allSum;
+//        }
+//
+//        System.out.println(exectedSum-actualNum);
 
     }
 

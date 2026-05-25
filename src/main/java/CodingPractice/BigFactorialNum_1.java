@@ -13,4 +13,6 @@ public class BigFactorialNum_1 {
         System.out.println(result);
 
     }
+    int input1=30;
+
 }

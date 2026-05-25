@@ -17,7 +17,7 @@ public class CountCharactors {
         String input = "Triveni";
         //char [] inputArray= input.toCharArray();
         int count=0;
-        for(int i=0;i<=input.length()-1; i++)
+        for(int i=0;i<input.length(); i++)
         {
 
            count++;

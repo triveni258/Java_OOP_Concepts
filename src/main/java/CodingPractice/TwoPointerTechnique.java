@@ -14,7 +14,6 @@ public class TwoPointerTechnique {
 //                    System.out.println(i +" "+ j);
 //                }
 //            }
-
         int num[]={2,3,4,7,8};
         int target=10;
         for(int i=0; i<num.length;i++){
